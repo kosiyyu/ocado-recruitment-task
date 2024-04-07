@@ -4,4 +4,6 @@
 
 mvn clean package
 
+chmod +x target/OcadoRecruitmentTask-1.0-SNAPSHOT.jar
+
 java -jar target/OcadoRecruitmentTask-1.0-SNAPSHOT.jar
